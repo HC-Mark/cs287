@@ -1,6 +1,7 @@
 bfs:
 playing with mazes Davod B. Suits URL: https://people.rit.edu/dbsgsh/MAZES3.pdf
 stack overflow: Maze solving with breadth first search URL:http://stackoverflow.com/questions/16366448/maze-solving-with-breadth-first-search
+learn the pesudo code of bfs. URL:https://learn.co/lessons/maze-solver
 
 dfs:
 maze generation algorithm: Depth-first search URL:https://en.wikipedia.org/wiki/Maze_generation_algorithm
